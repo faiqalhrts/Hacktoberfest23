@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/CSS/profil.css">
+    <title>Abdi R</title>
+</head>
+<body>
+    <div class="profil">
+        <h1>Abdi Rabbani</h1>
+        <ul>
+            <li>Nama    : Abdi Rabbani</li>
+            <li>Kelas   : 10 RPL A</li>
+            <li>Alamat  : Jl. Baladewa 4, Perum Perumnas blok pj no 10, Sukaluyu, Kec. Telukjambe Tim., Kabupaten Karawang, Jawa Barat 41361</li>
+            <li>Hobi    : Makan</li>
+            <li>Sekolah : SMK IT IDN Boarding School</li>
+        </ul>
+    </div>
+</body>
+</html>
